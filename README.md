@@ -1,8 +1,8 @@
 # EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
 
-NAME: M.K.Suriya prakash
-REG NO: 212224110053
+### NAME: M.K.Suriya prakash
+### REG NO: 212224110053
  
 AIM
  To control the status of the given lamp by using two–way switches. 
@@ -48,6 +48,9 @@ switch2.
 ### Tabulation:1
 
 <img width="487" height="231" alt="image" src="https://github.com/user-attachments/assets/6b18bbc3-9d93-4693-8f67-7e2465340015" />
+
+
+
 ### output:
 
 <img width="1265" height="538" alt="Screenshot 2025-10-08 092856" src="https://github.com/user-attachments/assets/8f118204-5049-408c-8c52-83f0fb6a1e95" />
